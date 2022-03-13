@@ -39,7 +39,11 @@ In order to perform bias testing on the Amazon Vine reviews, we first filtered o
 > helpful_df.show()
 
 ```
-
+We then created two new dataframes from the filtered dataset to separate reviews from Vine members and non-Vine members to begin our comparison:
+ <p float="left">
+    <img src="https://github.com/crtallent/Amazon_Vine_Analysis/blob/main/Images/Vine_reviews.png" alt=" Vine Reviews" />
+    <img src="https://github.com/crtallent/Amazon_Vine_Analysis/blob/main/Images/non_Vine_reviews.png" alt="Non-Members Reviews" /> 
+ <p/>  
 
 
 
