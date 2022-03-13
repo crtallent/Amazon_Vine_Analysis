@@ -31,9 +31,10 @@ For this project, we are tasked with analyzing Amazon reviews written by members
 
 ## Amazon Vine Reviews Analysis (Results)
 
-In order to perform bias testing on the Amazon Vine reviews, we first filtered our [Vine DataFrame](https://github.com/crtallent/Amazon_Vine_Analysis/blob/main/Vine_Review_Analysis.ipynb) to include only results where there were 20 more total votes:
+In order to perform bias testing on the Amazon Vine reviews, we first filtered our [Vine DataFrame](https://github.com/crtallent/Amazon_Vine_Analysis/blob/main/Vine_Review_Analysis.ipynb) to include only results where there were 20 more total votes, and at least 50% of their total votes were determined as "helpful" by other consumers reading the reviews:
 
 ```
+> new_vine_df = vine_df.filter("total_votes>=20")
 > helpful_df = new_vine_df.filter("helpful_votes / total_votes >= 0.5")
 > helpful_df.show()
 
