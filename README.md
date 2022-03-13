@@ -45,5 +45,18 @@ We then created two new dataframes from the filtered dataset to separate reviews
     <img src="https://github.com/crtallent/Amazon_Vine_Analysis/blob/main/Images/non_Vine_reviews.png" alt="Non-Members Reviews" style="height: 400px; width:400px;" /> 
  <p/>  
 
+With our newly created dataframes, we were ready to begin our bias testing. All calculations were performed on the Vine and non-Vine member dataframes separately, but for reliability, the same procedures were peformed for both.  The following information was returned:
+
+* There were a total of 94 helpful reviews for Vine members, and 40,471 for non-Vine members.
+* Of the 94 reviews for Vine members, 48 of them were 5-star reviews.  Of the 40,471 reviews for non-Vine members, 15,663 were 5-star reviews.
+* These results indicate that 51% of the reivews from Vine members were 5-star ratings, compared to 39% for non-Vine members.
+
+```
+< vine_reviews = y_count / y_ratings
+< print("{:.0%}".format(vine_reviews))
+< non_vine_reviews = n_count / n_ratings
+< print("{:.0%}".format(non_vine_reviews))
+```
+
 
 
