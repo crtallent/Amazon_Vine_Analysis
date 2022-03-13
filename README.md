@@ -58,5 +58,9 @@ With our newly created dataframes, we were ready to begin our bias testing. All 
 < print("{:.0%}".format(non_vine_reviews))
 ```
 
+## Summary
 
+Based on these results, there may appear to be positivity bias for reviews in the Vine program. Specifically, 51% of all reviews were at a 5-star level for Vine members, when this number was much lower in comparison to non-Vine members, at 39%. However, it should be noted that the population (n) for the Vine members dataframe only contained 94 total reviews, while the second population, non-Vine member reviews, had a total of 40,471 reviews. In order to continue with a more in-depth bias analysis, it may be useful to use all reviews, rather than just those deemed helpful to create a larger sample size.
+
+A lot more interesting information can be gleaned from this particular dataset. One analysis in particular that might provide useful information would be to compare the total number of Vine reviews against those that are deemed "helpful" by other consumers. Is there bias toward Vine reviews by other consumers as the Vine members are provided products at no cost?  Additionally, are consumers more likely to consider a review helpful if there are 1 or 2 stars rather than 4 or 5? Using natural language processing (NLP) may also be helpful when looking at the qualitative data of the reviews themselves to glean what reviews are considered "helpful" by consumers. All of this information can help SellBy and other companies determine whether being a part of this program would be beneficial to their company in increasing sales and product exposure.
 
