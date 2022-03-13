@@ -27,7 +27,7 @@ For this project, we are tasked with analyzing Amazon reviews written by members
 
 * Software: Amazon Web Services (AWS), Google Colaboratory (Colab) Notebooks, Python 3.7.6, PySpark 3.0.3, pgAmdin4, PostgresSQL 13.6 
 * Data Source: amazon-reviews-pds/tsv/amazon_reviews_us_Video_Games_v1_00.tsv.gz
-* Codes for ETL [here](https://github.com/crtallent/Amazon_Vine_Analysis/blob/main/Amazon_Reviews_ETL.ipynb) and [here](https://github.com/crtallent/Amazon_Vine_Analysis/blob/main/Vine_Review_Analysis.ipynb) .
+* Codes for ETL [here](https://github.com/crtallent/Amazon_Vine_Analysis/blob/main/Amazon_Reviews_ETL.ipynb) and [here](https://github.com/crtallent/Amazon_Vine_Analysis/blob/main/Vine_Review_Analysis.ipynb).
 
 
 
