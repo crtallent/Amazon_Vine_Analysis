@@ -6,6 +6,16 @@ For this project, we are tasked with analyzing Amazon reviews written by members
 
 1. Create Google Colab Notebook and import dependencies <img src="https://github.com/crtallent/Amazon_Vine_Analysis/blob/main/Images/Colab.png"/>
 2. Extract Amazon Review dataset as a DataFrame <img src="https://github.com/crtallent/Amazon_Vine_Analysis/blob/main/Images/dataset.png"/>
+3. Transform dataset into 4 dataframes:
+
+<p float="left">
+  <img src="https://github.com/crtallent/Amazon_Vine_Analysis/blob/main/Images/cust_df.png" alt="Customers DataFrame" style="height: 300px; width:300px;"/>
+  <img src="https://github.com/crtallent/Amazon_Vine_Analysis/blob/main/Images/prod_df.png" alt="Products DataFrame" style="height: 300px; width:300px;"/> 
+  <img src="https://github.com/crtallent/Amazon_Vine_Analysis/blob/main/Images/review_id_df.png" alt="Review ID DataFrame" style="height: 300px; width:300px;"/> 
+  <img src="https://github.com/crtallent/Amazon_Vine_Analysis/blob/main/Images/vine_df.png" alt="Vine DataFrame" style="height: 300px; width:300px;"/>   
+<p/>  
+  
+
 
 
 
