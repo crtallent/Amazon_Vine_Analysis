@@ -9,11 +9,12 @@ For this project, we are tasked with analyzing Amazon reviews written by members
 3. Transform dataset into 4 dataframes:
 
 <p float="left">
-  <img src="https://github.com/crtallent/Amazon_Vine_Analysis/blob/main/Images/cust_df.png" alt="Customers DataFrame" style="height: 300px; width:300px;"/>
-  <img src="https://github.com/crtallent/Amazon_Vine_Analysis/blob/main/Images/prod_df.png" alt="Products DataFrame" style="height: 300px; width:300px;"/> 
-  <img src="https://github.com/crtallent/Amazon_Vine_Analysis/blob/main/Images/review_id_df.png" alt="Review ID DataFrame" style="height: 300px; width:300px;"/> 
-  <img src="https://github.com/crtallent/Amazon_Vine_Analysis/blob/main/Images/vine_df.png" alt="Vine DataFrame" style="height: 300px; width:300px;"/>   
+  <img src="https://github.com/crtallent/Amazon_Vine_Analysis/blob/main/Images/cust_df.png" alt="Customers DataFrame" style="height: 400px; width:400px;"/>
+  <img src="https://github.com/crtallent/Amazon_Vine_Analysis/blob/main/Images/prod_df.png" alt="Products DataFrame" style="height: 400px; width:400px;"/> 
+  <img src="https://github.com/crtallent/Amazon_Vine_Analysis/blob/main/Images/review_id_df.png" alt="Review ID DataFrame" style="height: 400px; width:400px;"/> 
+  <img src="https://github.com/crtallent/Amazon_Vine_Analysis/blob/main/Images/vine_df.png" alt="Vine DataFrame" style="height: 400px; width:400px;"/>   
 <p/>  
+4. 
   
 
 
