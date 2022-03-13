@@ -17,10 +17,10 @@ For this project, we are tasked with analyzing Amazon reviews written by members
 4. Load all four dataframes into pgAdmin
 
  <p float="left">
-    <img src="https://github.com/crtallent/Amazon_Vine_Analysis/blob/main/Images/customers_table.png" alt="Customers Table" style="height: 400px; width:400px;"/>
-    <img src="https://github.com/crtallent/Amazon_Vine_Analysis/blob/main/Images/products_table.png" alt="Products Table" style="height: 400px; width:400px;"/> 
-    <img src="https://github.com/crtallent/Amazon_Vine_Analysis/blob/main/Images/review_id_table.png" alt="Review ID Table" style="height: 400px; width:400px;"/> 
-    <img src="https://github.com/crtallent/Amazon_Vine_Analysis/blob/main/Images/Vine_table.png" alt="Vine Table" style="height: 400px; width:400px;"/>   
+    <img src="https://github.com/crtallent/Amazon_Vine_Analysis/blob/main/Images/customers_table.png" alt="Customers Table" style="height: 500px; width:500px;"/>
+    <img src="https://github.com/crtallent/Amazon_Vine_Analysis/blob/main/Images/products_table.png" alt="Products Table" style="height: 500px; width:500px;"/> 
+    <img src="https://github.com/crtallent/Amazon_Vine_Analysis/blob/main/Images/review_id_table.png" alt="Review ID Table" style="height: 500px; width:500px;"/> 
+    <img src="https://github.com/crtallent/Amazon_Vine_Analysis/blob/main/Images/Vine_table.png" alt="Vine Table" style="height: 500px; width:500px;"/>   
     <p/>  
   
 
