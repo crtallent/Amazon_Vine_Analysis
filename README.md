@@ -14,7 +14,14 @@ For this project, we are tasked with analyzing Amazon reviews written by members
     <img src="https://github.com/crtallent/Amazon_Vine_Analysis/blob/main/Images/review_id_df.png" alt="Review ID DataFrame" style="height: 400px; width:400px;"/> 
     <img src="https://github.com/crtallent/Amazon_Vine_Analysis/blob/main/Images/vine_df.png" alt="Vine DataFrame" style="height: 400px; width:400px;"/>   
     <p/>  
-4. 
+4. Load all four dataframes into pgAdmin
+
+ <p float="left">
+    <img src="https://github.com/crtallent/Amazon_Vine_Analysis/blob/main/Images/customers_table.png" alt="Customers Table" style="height: 400px; width:400px;"/>
+    <img src="https://github.com/crtallent/Amazon_Vine_Analysis/blob/main/Images/products_table.png" alt="Products Table" style="height: 400px; width:400px;"/> 
+    <img src="https://github.com/crtallent/Amazon_Vine_Analysis/blob/main/Images/review_id_table.png" alt="Review ID Table" style="height: 400px; width:400px;"/> 
+    <img src="https://github.com/crtallent/Amazon_Vine_Analysis/blob/main/Images/Vine_table.png" alt="Vine Table" style="height: 400px; width:400px;"/>   
+    <p/>  
   
 
 
