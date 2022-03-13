@@ -41,8 +41,8 @@ In order to perform bias testing on the Amazon Vine reviews, we first filtered o
 ```
 We then created two new dataframes from the filtered dataset to separate reviews from Vine members and non-Vine members to begin our comparison:
  <p float="left">
-    <img src="https://github.com/crtallent/Amazon_Vine_Analysis/blob/main/Images/Vine_reviews.png" alt=" Vine Reviews" />
-    <img src="https://github.com/crtallent/Amazon_Vine_Analysis/blob/main/Images/non_Vine_reviews.png" alt="Non-Members Reviews" /> 
+    <img src="https://github.com/crtallent/Amazon_Vine_Analysis/blob/main/Images/Vine_reviews.png" alt=" Vine Reviews" style="height: 400px; width:400px;"/>
+    <img src="https://github.com/crtallent/Amazon_Vine_Analysis/blob/main/Images/non_Vine_reviews.png" alt="Non-Members Reviews" style="height: 400px; width:400px;" /> 
  <p/>  
 
 
